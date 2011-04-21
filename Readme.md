@@ -15,7 +15,7 @@ Now fork this project and send me updates :)
 CLI
 ---
 
-	Usage: ngen [action] [options]
+PROPOSED INITIAL USAGE
 
     Usage:
       ngen new APP_PATH [options]
