@@ -1,0 +1,26 @@
+{
+    "name":         "express-gen",
+    "description":  "A views, models, routes generator utility for ExpressJS",
+    "keywords":     ["express", "cli", "github", "express-gen", "nodejs"],
+    "author":       "Christian Sanz <chrissanz@gmail.com>",
+    "version":      "0.0.1",
+    "licenses":     [{
+      "type":       "MIT",
+      "url":        "http://github.com/csanz/express-gen/raw/master/LICENSE"
+    }],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/csanz/express-gen.git" 
+    },
+    "engines":      {
+      "node":       ">=0.4.0"
+    },
+    "dependencies": {
+        "optimist": ">= 0.1.5"
+      , "colors": "*"
+    },
+    "main" : "./lib/express-gen",
+    "bin":          {
+      "nrake":       "./cli.js"
+    }
+}
