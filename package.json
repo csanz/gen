@@ -1,16 +1,16 @@
 {
-    "name":         "express-gen",
-    "description":  "A views, models, routes generator utility for ExpressJS",
+    "name":         "ngen",
+    "description":  "A views, models, routes, controller generator CLI for ExpressJS and Mongooose",
     "keywords":     ["express", "cli", "github", "express-gen", "nodejs"],
     "author":       "Christian Sanz <chrissanz@gmail.com>",
     "version":      "0.0.1",
     "licenses":     [{
       "type":       "MIT",
-      "url":        "http://github.com/csanz/express-gen/raw/master/LICENSE"
+      "url":        "http://github.com/csanz/ngen/raw/master/LICENSE"
     }],
     "repository": {
       "type": "git",
-      "url": "http://github.com/csanz/express-gen.git" 
+      "url": "http://github.com/csanz/ngen.git" 
     },
     "engines":      {
       "node":       ">=0.4.0"
@@ -19,8 +19,8 @@
         "optimist": ">= 0.1.5"
       , "colors": "*"
     },
-    "main" : "./lib/express-gen",
+    "main" : "./lib/ngen",
     "bin":          {
-      "nrake":       "./cli.js"
+      "ngen":       "./cli.js"
     }
 }
