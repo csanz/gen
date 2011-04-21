@@ -1,6 +1,6 @@
 {
     "name":         "ngen",
-    "description":  "A views, models, routes, controller generator CLI for ExpressJS and Mongooose",
+    "description":  "A views, models, routes, controller generator CLI for ExpressJS and Mongoose",
     "keywords":     ["express", "cli", "github", "express-gen", "nodejs"],
     "author":       "Christian Sanz <chrissanz@gmail.com>",
     "version":      "0.0.1",

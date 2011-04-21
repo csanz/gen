@@ -1,7 +1,7 @@
 ngen (Coming soon)
 =====
 
-A views, models, routes, controller generator CLI for ExpressJS and Mongooose
+A views, models, routes, controller generator CLI for ExpressJS and Mongoose
 
 Installation
 ------------
