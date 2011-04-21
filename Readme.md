@@ -15,3 +15,7 @@ Now fork this project and send me updates
 CLI
 ---
 
+	Usage: express [action] [options]
+
+	[Options]
+	-c, --create      Boostrap a brand new website template
