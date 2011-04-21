@@ -15,8 +15,3 @@ Now fork this project and send me updates
 CLI
 ---
 
-	Usage: rnake [action] [options]
-
-	[Options]
-	-h, --help        Display this help page
-	-l, --list        Display messages inside the general feed
